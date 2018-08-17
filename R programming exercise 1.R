@@ -36,3 +36,4 @@ value / result
 #10 What is the floor of "value" divided by "result", divided by the ceiling of "value" divided by "result"?
 help(floor)
 (floor(value/result))/(ceiling(value/result))
+#DONE
